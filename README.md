@@ -1,3 +1,5 @@
+# Site under construction
+
 # Predicting House Prices in Ames, Iowa
 
 *A series of notebooks describe the steps taken to build an advanced Machine Learning model to predict house prices in Ames, Iowa.*

@@ -6,6 +6,6 @@
 
 The data for this analysis was sourced from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
-- [Cleaning the Data](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/1.Clean.ipynb)
+- [Cleaning the Data](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/Clean.ipynb)
 
 Copyright 2017, Anthony Blaom

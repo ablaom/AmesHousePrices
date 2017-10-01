@@ -1,13 +1,28 @@
-# Site under construction
+##&#128679; Site under construction
 
 # Predicting House Prices in Ames, Iowa
 
-*A series of notebooks describe the steps taken to build an advanced Machine Learning model to predict house prices in Ames, Iowa.*
+*A series of Jupyter notebooks describing the steps taken to build an
+ advanced Machine Learning model to predict house prices in Ames,
+ Iowa.*
+
+Consult the notebooks below  to:
+
+- Get a sneak preview of a Julia package under
+  development by the author that extends the well-known [ScikitLearn](http://scikit-learn.org/stable/) application
+  programming interface (API) for Machine Learning (source not
+  currently public)
+
+- See how some common regression models (Random Forest, XGBoost,
+  Lasso, etc) can be trained, tuned, and compared on a real data set
+  (this process being generic and not dependent on a partiular
+  programming language or API)*
 
 The data for this analysis was sourced from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
 - [Cleaning the Data](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/clean.ipynb)
 - [Extracting important features](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/reduce.ipynb)
 - [Building a random forest model](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/model_random_forest.ipynb)
+- [Building an extreme random forest model](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/model_extreme_forest.ipynb)
 
-Copyright 2017, Anthony Blaom
+> &copy; 2017 Anthony Blaom

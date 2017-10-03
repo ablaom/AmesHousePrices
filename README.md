@@ -24,5 +24,6 @@ The data for this analysis was sourced from [Kaggle](https://www.kaggle.com/c/ho
 - [Extracting important features](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/reduce.ipynb)
 - [Building a random forest model](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/model_random_forest.ipynb)
 - [Building an extreme random forest model](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/model_extreme_forest.ipynb)
+- [Building an elastic net model (a ridge-lasso hybrid)](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/model_elastic_net.ipynb)
 
 > &copy; 2017 Anthony Blaom

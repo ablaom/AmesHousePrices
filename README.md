@@ -26,7 +26,7 @@ The data for this analysis was sourced from [Kaggle](https://www.kaggle.com/c/ho
 - [Building an extreme random forest model](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/model_extreme_forest.ipynb)
 - [Building an elastic net model (a ridge-lasso hybrid)](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/model_elastic_net.ipynb)
 - [Building a gradient boosted tree (XGBoost) model](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/model_xgboost.ipynb)
-- [Comparing the models](https://github.com/ablaom/AmesHousePrices/blob/master/compare.ipynb)
+- [Comparing the models](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/compare.ipynb)
 
 ![Comparison of models](errors.png)
 > &copy; 2017 Anthony Blaom

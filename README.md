@@ -16,7 +16,7 @@ Consult the notebooks below  to:
 - See how some common regression models (Random Forest, XGBoost,
   Lasso, etc) can be trained, tuned, and compared on a real data set
   (this process being generic and not dependent on a partiular
-  programming language or API)*
+  programming language or API)
 
 The data for this analysis was sourced from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 

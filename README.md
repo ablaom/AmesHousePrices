@@ -14,7 +14,7 @@ Consult the notebooks below  to:
   currently public)
 
 - See how some common regression models (Random Forest, XGBoost,
-  Lasso, etc) can be trained, tuned, and compared on a real data set
+  Elastic Net, etc) can be trained, tuned, and compared on a real data set
   (this process being generic and not dependent on a partiular
   programming language or API)
 
@@ -28,5 +28,5 @@ The data for this analysis was sourced from [Kaggle](https://www.kaggle.com/c/ho
 - [Building a gradient boosted tree (XGBoost) model](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/model_xgboost.ipynb)
 - [Comparing the models](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/compare.ipynb)
 
-![Comparison of models](errors.pdf)
+![Comparison of models](errors.png)
 > &copy; 2017 Anthony Blaom

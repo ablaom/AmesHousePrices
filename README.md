@@ -1,5 +1,3 @@
-##&#128679; Page under construction
-
 # Predicting House Prices in Ames, Iowa
 
 *A series of Jupyter notebooks describing the steps taken to build an

@@ -26,5 +26,5 @@ The data for this analysis was sourced from [Kaggle](https://www.kaggle.com/c/ho
 - [Building a gradient boosted tree (XGBoost) model](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/model_xgboost.ipynb)
 - [Comparing the models](http://nbviewer.jupyter.org/github/ablaom/AmesHousePrices/blob/master/compare.ipynb)
 
-![Comparison of models](errors.png)
+![Comparison of models figure](errors.png)
 > &copy; 2017 Anthony Blaom
